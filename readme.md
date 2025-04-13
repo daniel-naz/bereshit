@@ -43,4 +43,4 @@ the programming of bereshit - my simulator is based mostly on my personal logic.
 
 The end fuel value is 15, I've added a slider that allows to tweak the start values. I'm sure someone can find better landing data.
 
-Link to XL SPEAD SHEET
+Excel data located in the repository.
